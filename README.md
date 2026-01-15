@@ -3,7 +3,7 @@
 This repository is created as a part of the OASIS INFOBYTE Internship – Level 1, Task 2. 
 This task mainly focuses on designing and developing a Portfolio.
 
-PROJECT OVERVIEW
+# PROJECT OVERVIEW
 This project is a PORTFOLIO using HTML5 and CSS3, aimed at showcasing a product or service with a clean, modern, and responsive design. 
 It demonstrates foundational frontend development skills including layout structuring, styling, and responsive design techniques.
 
